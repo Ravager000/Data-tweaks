@@ -1,0 +1,88 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2023-05-04
+  Features:
+    - Log: mod list, map setting
+    - Base: Picker Tweaks
+    - Added: Belt Legacy
+    - Added: Map Pollution Visibility
+    - Added: Configurable map overlay strength
+    - Added: Almost Invisible Electric Wires
+    - Added: Thicker Power Wires
+    - Added: Fireproof Worker Bots
+    - Added: Fireproof Land Mines
+    - Added: Shinys fireproof signals
+    - Added: Show Bots On Map
+    - Added: Unminable Bots
+    - Added: UnPollock
+    - Added: Clean_Tree_Burning
+    - Added: Cleaned Concrete (Mod Compatible)
+    - Added: Brighter Lamps
+    - Added: EvenMoreLight
+    - Added: NoArtilleryMapReveal
+    - Added: Landmine Gridlock
+    - Added: no-wall-repair
+    - Added: no wall alerts
+    - Added: Vil's Clear nightvision
+    - Added: Artillery Visibility
+    - Added: Tree colision
+    - Added: More UPS, FPS
+    - Added: pumping from landfill
+    - Added: Tinted Ghosts
+    - Added: Humble Alt-Mode Shadow
+    - Added: No Lab Names
+    - Added: No Nuke Scorch
+    - Added: Better Roboport
+    - Added: car belt immunity
+    - Added: Bordered Alert Icons (Ntm fork)
+    - Added: smaller mod list 
+    - Added: NoFreeplayCutscene
+    - Added_as_Dependencie: Custom Map Colors
+    - Added_as_Dependencie: ReStack
+    - Added_as_Dependencie: bullet-trails
+    - Added_as_Dependencie: SmallRobots
+    - Added_as_Dependencie: Noxys Fading
+    - Added_as_Dependencie: squeak-through-2
+    - Added_as_Dependencie: Volume Control
+    - Added_as_Dependencie: vehicle-corpses
+    - Added_as_Dependencie: Better Cliff Hitboxes
+    - Added_as_Dependencie: Simple Landfill Mining
+    - Added_as_Dependencie: Extended Descriptions
+    - Added_as_Dependencie: Noxys Extra Settings Info
+  Bugfixes:
+    - No_Lab_Names disabled train stop name change messing up blueprint
+  Changes:
+    - Added a setting for eatch data tweak and set default to vanilla 
+    - No_Lab_Names remove backer_name for new entity only 
+    - NoArtilleryMapReveal do not change vanilla artillery-shell ingredients 
+    - Landmine Gridlock do not owerwrite entity.flags
+    - Tinted Ghosts added tile_ghost_tint color setting
+    - Bordered Alert Icons removed custom bordered sprites
+    - Shinys fireproof signals change or add fire resistance
+    - Fireproof Land Mines change or add fire resistance
+    - BetterRoboport rebalance to double speed of vanilla
+    - Almost Invisible Electric Wires do not owerwrite original prototype
+    - Merged Thicker Power Wires and Almost Invisible Electric Wires  
+    - Belt Legacy to support all belt and splitter
+    - Added setting to enable crafting queue
+    - Map view can use night vision 
+    - Replaced squeak-through by squeak-through-2 and marked incompatible
+    - Removed ups-fps corps effect. Use Noxys Fading
+  Other:
+    - TODO: set-player_color    playern-name-tag 
+    - TODO: more settings for Belt Legacy protection
+    - TODO: Normalise name setting + colorise setting
+    - Update tweak for Factorio 1.1
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2023-02-18
+  Features:
+    - Added:
+  Bugfixes:
+    - Crash
+  Changes:
+    - None
+  Other:
+    - Imported Template 
+

@@ -1,0 +1,53 @@
+
+				 Optional Dependencies
+
+notnotmelon		    		    extended-descriptions  MIT
+_Noxys_                         Noxys_Extra_Settings_Info    The Unlicense (Public Domain) 
+Earendel                        bullet-trails    Limited Distribution Only Licence 
+Optera                          ReStack    MIT
+Pi-C                            SmallRobots    The Unlicense (Public Domain) 
+_Noxys_                         Noxys_QuickerStumpFade    The Unlicense (Public Domain) 
+Optera                          VolumeControl    MIT
+_CodeGreen						squeak-through-2    MIT
+_CodeGreen						vehicle-corpses    MIT
+_CodeGreen						better-cliff-hitboxes   MIT
+ Nauviax 						simple_landfill_mining   MIT
+
+				Mod included 
+
+Nexela      		            PickerTweaks    MIT
+Loren1350         		        UnPollock    MIT 
+Gegell             			    Clean_Tree_Burning    MIT 
+RockPaperKatana  JusticeDroid   CleanedConcreteCompatibility    MIT 
+Optera	 Choumiko               UnminableBots    MIT 
+darkfrei                   		ShowBotsOnMap    MIT 
+KamiUnitY   Nauviax             fireproof-worker-bots    MIT 
+Bodleum                    		fireproof-land-mines    MIT 
+fishycat						belt-legacy    MIT 
+DellAquila  kuxynator           AlmostInvisibleElectricWires    The Unlicense (Public Domain) 
+SpeckledFleebeedoo              Configurable-map-lines    MIT
+DanielZlotin                    MapPollutionVisibility    MIT
+Woetoo  JamesOFarrell  closteam  antisocialian.                    EvenMoreLight    MIT
+Krydax                    		Brighter-Lamps   MIT 
+JohnTheCoolingFan               NoArtilleryMapReveal    MIT
+RusselRaZe  Doctor_Goose's      rz-LandmineGridlock    MIT
+Pawz                    		no-wall-repair    MIT
+Vil                    			VilsClearNightvision    The Unlicense (Public Domain) 
+JadeE1024                   	artillery-visibility    MIT
+skomick                    		tree_collision    MIT
+ZwerOxotnik                     ups-fps    MIT
+meifray                    		pumping_from_landfill   The Unlicense (Public Domain) 
+raiguard                    	TintedGhosts   MIT
+Preston Lee Cole                Humble_Alt_Mode_Shadow   The Unlicense (Public Domain) 
+Preston Lee Cole                No_Lab_Names    The Unlicense (Public Domain)
+DofD  warbaque                  nonukescorch    MIT
+Newtomic                   		BorderedAlertIcons_NtmFork    MIT
+Lachlan McDonald                ThickerLines   MIT
+ShinyAfro                    	Shinys-fireproof-signals MIT
+realtux							BetterRoboport MIT
+exfret                          No Wall Alerts MIT	
+_CodeGreen                      smaller-mod-list   MIT
+morsk                           NoFreeplayCutscene   Derivative Work 
+exfret							no_wall_alerts   MIT
+perfectwill						reduce_damage_flash   GNU GPLv3 
+highfrequent					car-belt-immunity   GNU LGPLv3 
